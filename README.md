@@ -43,7 +43,7 @@ En tu repositorio ve a Settings → Pages.
 En Build and deployment, selecciona Deploy from a branch.
 Selecciona la rama main y la carpeta / (root), y guarda los cambios.
 Cuando termine la publicación, abre la URL que GitHub Pages muestre. Normalmente será:
-https://TU-USUARIO.github.io/neon-ride/
+[https://c4pit4nvodk4.github.io/neon-ride/](https://c4pit4nvodk4.github.io/NeonRide/)
 Reemplaza TU-USUARIO y neon-ride por los nombres reales de tu cuenta y repositorio. GitHub Pages utiliza HTTPS, necesario para solicitar permisos de ubicación en navegadores modernos.
 
 📱 Cómo usarlo en tu moto
